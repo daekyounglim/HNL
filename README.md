@@ -1,2 +1,1 @@
-# HNL
-Hands on Machine Learning
+# MACHINE LEARNING IN HSE
